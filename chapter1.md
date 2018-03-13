@@ -29,7 +29,7 @@ JavaScript是一种轻型的、**解释型**的程序设计语言，而且具有
 
 ## 服务器端JavaScirpt - Node.js
 
-> Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。
+> Node.js 是一个基于 Chrome V8 引擎，服务器端的 JavaScript 运行环境。
 
 
 
