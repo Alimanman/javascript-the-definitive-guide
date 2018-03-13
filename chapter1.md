@@ -1,3 +1,4 @@
-# First Chapter
+# 第一章 JavaScript概述
+---
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## JavaScript是一种轻型的、解释型的程序设计语言，而且具有面向对象的能力。

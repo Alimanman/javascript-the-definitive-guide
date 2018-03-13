@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [First Chapter](chapter1.md)
+* [第一章 JavaScript概述](chapter1.md)
 * chapter2
 * chapter3
 * chapter4
