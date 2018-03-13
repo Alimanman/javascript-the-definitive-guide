@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [第一章 JavaScript概述](chapter1.md)
-* chapter2
+* [chapter2](chapter2.md)
 * chapter3
 * chapter4
 * chapter5
