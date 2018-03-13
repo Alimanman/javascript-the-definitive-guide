@@ -1,3 +1,7 @@
-# My Awesome Book
+# JavaScript权威指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+目标看完整本书，并记录全过程。
+
+
+- 项目创建：20180311
+- 第一章：20180313
