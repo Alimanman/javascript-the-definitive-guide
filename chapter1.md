@@ -5,6 +5,8 @@ JavaScript是一种轻型的、**解释型**的程序设计语言，而且具有
 
 >解释型语言：通俗点就是看一行执行一行，列如javascript、php、python都为解释型语言。
 
+## 标准化规范之路
+
 - ECMAScript
 - W3C DOM
 
